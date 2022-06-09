@@ -9,6 +9,5 @@
   <img src="https://raw.githubusercontent.com/utkayfirat/LoadTube/main/promotion_images/image_7.jpg"><br>
   <img src="https://raw.githubusercontent.com/utkayfirat/LoadTube/main/promotion_images/image_8.jpg"><br>
   <img src="https://raw.githubusercontent.com/utkayfirat/LoadTube/main/promotion_images/image_9.jpg"><br>
-<center>
   <img src="https://raw.githubusercontent.com/utkayfirat/LoadTube/main/promotion_images/image_10.jpg">
-</center>
+
