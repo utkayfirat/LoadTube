@@ -1,5 +1,5 @@
 # Download ".exe" file
- <a target="_BLANK" href="https://drive.google.com/file/d/1Low6BGQWdYipOMXv6ahQGAqFPkiVV3wj/view?usp=sharing"><img  src="https://raw.githubusercontent.com/utkayfirat/LoadTube/main/promotion_images/download_item.png"></a>
+ <a target="_blank" href="https://drive.google.com/file/d/1Low6BGQWdYipOMXv6ahQGAqFPkiVV3wj/view?usp=sharing"><img  src="https://raw.githubusercontent.com/utkayfirat/LoadTube/main/promotion_images/download_item.png"></a>
  
 # LoadTube - Download youtube songs easily
   A program that will allow you to easily download music or videos from Youtube.
